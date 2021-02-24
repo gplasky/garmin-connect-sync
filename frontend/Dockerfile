@@ -1,0 +1,2 @@
+# nothing yet
+FROM foo
