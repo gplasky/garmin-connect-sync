@@ -1,1 +1,0 @@
-Use this: https://recharts.org/en-US/guide/getting-started
