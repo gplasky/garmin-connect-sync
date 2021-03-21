@@ -2,3 +2,6 @@
 
 # Secrets here!
 .env
+
+# MacOS stuff
+.DS_Store
