@@ -3,5 +3,6 @@
 # Secrets here!
 .env
 
-# MacOS stuff
+settings.json
+
 .DS_Store
